@@ -233,7 +233,7 @@ namespace SimuladorProcesos
         //----------------Process Execution Timer Method
         public void executionTimer(int tempTime)
         {
-            int executionTime = tempTime * 1000;
+            int executionTime = tempTime * 800;
             System.Windows.Forms.Timer timer1 = new System.Windows.Forms.Timer();
             if (executionTime == 0 || executionTime < 0)
             {

@@ -1,0 +1,20 @@
+C:\Users\me12345\Desktop\Administrador-Procesos-RR-master\SimuladorProcesos\bin\Debug\SimuladorProcesos.exe.config
+C:\Users\me12345\Desktop\Administrador-Procesos-RR-master\SimuladorProcesos\bin\Debug\SimuladorProcesos.exe
+C:\Users\me12345\Desktop\Administrador-Procesos-RR-master\SimuladorProcesos\bin\Debug\SimuladorProcesos.pdb
+C:\Users\me12345\Desktop\Administrador-Procesos-RR-master\SimuladorProcesos\obj\Debug\SimuladorProcesos.csprojAssemblyReference.cache
+C:\Users\me12345\Desktop\Administrador-Procesos-RR-master\SimuladorProcesos\obj\Debug\SimuladorProcesos.MainForm.resources
+C:\Users\me12345\Desktop\Administrador-Procesos-RR-master\SimuladorProcesos\obj\Debug\SimuladorProcesos.Properties.Resources.resources
+C:\Users\me12345\Desktop\Administrador-Procesos-RR-master\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.GenerateResource.cache
+C:\Users\me12345\Desktop\Administrador-Procesos-RR-master\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.CoreCompileInputs.cache
+C:\Users\me12345\Desktop\Administrador-Procesos-RR-master\SimuladorProcesos\obj\Debug\SimuladorProcesos.exe
+C:\Users\me12345\Desktop\Administrador-Procesos-RR-master\SimuladorProcesos\obj\Debug\SimuladorProcesos.pdb
+C:\Users\me12345\Dropbox\my files\2019B\Seminario SO\Simulador-Lector - Writter\SimuladorProcesos\bin\Debug\SimuladorProcesos.exe.config
+C:\Users\me12345\Dropbox\my files\2019B\Seminario SO\Simulador-Lector - Writter\SimuladorProcesos\bin\Debug\SimuladorProcesos.exe
+C:\Users\me12345\Dropbox\my files\2019B\Seminario SO\Simulador-Lector - Writter\SimuladorProcesos\bin\Debug\SimuladorProcesos.pdb
+C:\Users\me12345\Dropbox\my files\2019B\Seminario SO\Simulador-Lector - Writter\SimuladorProcesos\obj\Debug\SimuladorProcesos.csprojAssemblyReference.cache
+C:\Users\me12345\Dropbox\my files\2019B\Seminario SO\Simulador-Lector - Writter\SimuladorProcesos\obj\Debug\SimuladorProcesos.MainForm.resources
+C:\Users\me12345\Dropbox\my files\2019B\Seminario SO\Simulador-Lector - Writter\SimuladorProcesos\obj\Debug\SimuladorProcesos.Properties.Resources.resources
+C:\Users\me12345\Dropbox\my files\2019B\Seminario SO\Simulador-Lector - Writter\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.GenerateResource.cache
+C:\Users\me12345\Dropbox\my files\2019B\Seminario SO\Simulador-Lector - Writter\SimuladorProcesos\obj\Debug\SimuladorProcesos.csproj.CoreCompileInputs.cache
+C:\Users\me12345\Dropbox\my files\2019B\Seminario SO\Simulador-Lector - Writter\SimuladorProcesos\obj\Debug\SimuladorProcesos.exe
+C:\Users\me12345\Dropbox\my files\2019B\Seminario SO\Simulador-Lector - Writter\SimuladorProcesos\obj\Debug\SimuladorProcesos.pdb
